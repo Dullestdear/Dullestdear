@@ -21,6 +21,6 @@ Instead of just counting commits, here is a look at what I've actually been buil
 *   *Note: Other titles, such as Shadows of Revenge, are currently in early conceptual stages or active development.*
 
 # 🚀 Current Journey
-*   💼 Working remotely as a **Unity Developer Intern** at Abhiwan Technology.
+*   💼 Worked remotely as a **Unity Developer Intern** at Abhiwan Technology.
 *   🎓 Studying **Computer Engineering** (B.Tech) at the Institute of Advanced Research.
 *   🧠 Researching dynamic and Agentic AI systems to implement into future game projects.
